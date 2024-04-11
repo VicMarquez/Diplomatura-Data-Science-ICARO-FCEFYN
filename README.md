@@ -1,2 +1,2 @@
-# Diplomatura_ Data_Scientist_ICARO_FCEFYN
+# Diplomatura_ Data_Science_ICARO_FCEFYN
  Practical and theoretical classes 
